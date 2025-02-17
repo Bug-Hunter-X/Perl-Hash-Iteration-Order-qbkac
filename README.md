@@ -1,0 +1,1 @@
+This example demonstrates a common issue in Perl: the lack of guaranteed order when iterating over a hash. The output may vary between Perl versions and even different runs of the same script.
